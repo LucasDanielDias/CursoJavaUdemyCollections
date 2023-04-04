@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1003369-cee8-4134-bb53-eb90f0a584b4" name="Changes" comment="Feat: Curso ConjuntoArray">
-      <change afterPath="$PROJECT_DIR$/src/Collections/aulaStes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/aula2Sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/aulaListas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +39,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.aulaStes">
+  <component name="RunManager" selected="Application.aula2Sets">
+    <configuration name="aula2Sets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.aula2Sets" />
+      <module name="cursoUdemyJavaModuloConjuntoeArray" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="aulaStes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collections.aulaStes" />
       <module name="cursoUdemyJavaModuloConjuntoeArray" />
@@ -67,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.aula2Sets" />
         <item itemvalue="Application.aulaStes" />
         <item itemvalue="Application.desafioArray" />
       </list>
